@@ -1,25 +1,7 @@
-$(document).ready(function() {
-
-  var rotate = function (deg) {
-      $(".n").css({ "-moz-transform": "rotate(0deg)"});
-      $(".n").css({ "-moz-transform": "rotate(" + deg + "deg)"});
-    
-      $(".n").css({ "-o-transform": "rotate(0deg)"});
-      $(".n").css({ "-o-transform": "rotate(" + deg + "deg)"});
-    
-      $(".n").css({ "-ms-transform": "rotate(0deg)"});
-      $(".n").css({ "-ms-transform": "rotate(" + deg + "deg)"});
-    
-      $(".n").css({ "-webkit-transform": "rotate(0deg)"});
-      $(".n").css({ "-webkit-transform": "rotate(" + deg + "deg)"});
-    
-      $(".n").css({ "transform": "rotate(0deg)"});
-      $(".n").css({ "transform": "rotate(" + deg + "deg)"});
-  };
-  if (window.DeviceOrientationEvent) {
-    window.addEventListener("deviceorientation", function (e) {
-      rotate(360 - e.alpha);
-    }, false);
-  }
-  
-});
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
