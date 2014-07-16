@@ -77,12 +77,12 @@ function toggle(id) {
 		
        var el = document.getElementById(id);
       
-       if(el.style.display == 'block'){
-          el.style.display = 'none';
-		 document.getElementById('toggler').innerHTML = 'Show Options';
-       }else{
-          el.style.display = 'block';
+       if(el.style.display == 'none'){
+         el.style.display = 'block';
 		  document.getElementById('toggler').innerHTML = 'Hide Options';
+       }else{
+		    el.style.display = 'none';
+		 document.getElementById('toggler').innerHTML = 'Show Options';
 	   }
     }
 	
