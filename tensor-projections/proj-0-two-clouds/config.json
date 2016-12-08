@@ -6,8 +6,8 @@
         1000,
         5
       ],
-      "tensorPath": "danielbeckstein.github.io/tensor-projections/proj-0-two-clouds/data.tsv",
-      "metadataPath": "danielbeckstein.github.io/tensor-projections/proj-0-two-clouds/meta.tsv",
+      "tensorPath": "http://danielbeckstein.github.io/tensor-projections/proj-0-two-clouds/data.tsv",
+      "metadataPath": "http://danielbeckstein.github.io/tensor-projections/proj-0-two-clouds/meta.tsv",
     }
   ]
 }
