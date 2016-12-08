@@ -1,19 +1,19 @@
 {
     "embeddings": [
         {
-            "tensorPath": "http://danielbeckstein.github.io/tensor-projections/proj-2-two-clouds/data.tsv", 
+            "tensorPath": "http://danielbeckstein.github.io/tensor-projections/proj-3/data.tsv", 
             "tensorName": "Two Clouds", 
             "tensorShape": [
                 10, 
                 5
             ], 
-            "metadataPath": "http://danielbeckstein.github.io/tensor-projections/proj-2-two-clouds/data.tsv", 
+            "metadataPath": "http://danielbeckstein.github.io/tensor-projections/proj-3/data.tsv", 
             "sprite": {
                 "singleImageDim": [
                     84, 
                     84
                 ], 
-                "imagePath": "http://danielbeckstein.github.io/tensor-projections/proj-2-two-clouds/sprite.png"
+                "imagePath": "http://danielbeckstein.github.io/tensor-projections/proj-3/sprite.png"
             }
         }
     ]
