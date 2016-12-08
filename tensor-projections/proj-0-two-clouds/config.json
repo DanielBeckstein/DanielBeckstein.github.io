@@ -3,12 +3,11 @@
     {
       "tensorName": "Two clouds",
       "tensorShape": [
-        10,
-        5
+        5,
+        10
       ],
-      "tensorPath": "http://danielbeckstein.github.io/tensor-projections/proj-0-two-clouds/data.tsv",
-      "metadataPath": "http://danielbeckstein.github.io/tensor-projections/proj-0-two-clouds/meta.tsv",
+      "tensorPath": "https://danielbeckstein.github.io/tensor-projections/proj-0-two-clouds/data.tsv",
+      "metadataPath": "https://danielbeckstein.github.io/tensor-projections/proj-0-two-clouds/meta.tsv",
     }
   ]
 }
-
