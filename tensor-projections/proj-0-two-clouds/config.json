@@ -4,7 +4,7 @@
       "tensorName": "Two clouds",
       "tensorShape": [
         10,
-        4
+        5
       ],
       "tensorPath": "http://danielbeckstein.github.io/tensor-projections/proj-0-two-clouds/data.tsv",
       "metadataPath": "http://danielbeckstein.github.io/tensor-projections/proj-0-two-clouds/meta.tsv",
