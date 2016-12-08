@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Two clouds",
+      "tensorShape": [
+        1000,
+        5
+      ],
+      "tensorPath": "danielbeckstein.github.io/tensor-projections/data.tsv",
+      "metadataPath": "danielbeckstein.github.io/tensor-projections/meta.tsv",
+    }
+  ]
+}
