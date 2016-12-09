@@ -7,14 +7,7 @@
                 100, 
                 5
             ], 
-            "metadataPath": "http://danielbeckstein.github.io/tensor-projections/theprojecttitle/two-clouds/meta.tsv", 
-            "sprite": {
-                "singleImageDim": [
-                    28, 
-                    28
-                ], 
-                "imagePath": "http://danielbeckstein.github.io/tensor-projections/theprojecttitle/two-clouds/sprite.png"
-            }
+            "metadataPath": "http://danielbeckstein.github.io/tensor-projections/theprojecttitle/two-clouds/meta.tsv"
         }
     ]
 }
