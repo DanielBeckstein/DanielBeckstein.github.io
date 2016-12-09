@@ -1,2 +1,2 @@
-create.py
-make_conf.py
+*.py
+*.pyc
